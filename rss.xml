@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[nextidea]]></title>
         <description><![CDATA[nextidea]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/nextidea/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 28 Feb 2016 13:55:41 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 28 Feb 2016 13:58:10 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/nextidea/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[The Grid]]></title>
-            <description><![CDATA[<article><h1>The Grid</h1></article>]]></description>
-            <link>https://app.thegrid.io/</link>
+            <title><![CDATA[next idea]]></title>
+            <description><![CDATA[<article><h1>next idea</h1><p>NRXT IDEA FO</p></article>]]></description>
+            <link>https://thegrid.ai/nextidea/next-idea/index.html</link>
             <guid isPermaLink="false">d0b9271d-4f69-482a-9cb5-02a9bf89cc82</guid>
-            <pubDate>Sun, 28 Feb 2016 13:55:33 GMT</pubDate>
+            <pubDate>Sun, 28 Feb 2016 13:58:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
