@@ -1,0 +1,28 @@
+name: nextidea
+favicon: null
+layout_spectrum: 0.57175501761958
+typography_spectrum: 0.7013333761133254
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.46132297068834305
+  lightness: 0.8770883369725198
+  saturation: 0.92367197945714
+  rhythmicContrast: 0.2888031711336225
+purpose: []
