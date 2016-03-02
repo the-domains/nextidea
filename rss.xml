@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[nextidea]]></title>
         <description><![CDATA[nextidea]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/nextidea/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 02 Mar 2016 08:29:52 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 02 Mar 2016 08:31:44 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/nextidea/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Starts with]]></title>
+            <description><![CDATA[<article><h1>Starts with</h1><p>needs</p></article>]]></description>
+            <link>https://thegrid.ai/nextidea/starts-with/index.html</link>
+            <guid isPermaLink="false">19d037e6-b3ab-421d-9a1f-66c885d1ab33</guid>
+            <pubDate>Wed, 02 Mar 2016 08:31:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[News of the day]]></title>
             <description><![CDATA[<article><h1>News of the day</h1><p>and</p></article>]]></description>
-            <link>undefinednews-of-the-day/index.html</link>
+            <link>https://thegrid.ai/nextidea/news-of-the-day/index.html</link>
             <guid isPermaLink="false">c1e06e41-f3f8-49f2-a150-f62dce6a5bc0</guid>
             <pubDate>Wed, 02 Mar 2016 08:29:45 GMT</pubDate>
         </item>
