@@ -1,11 +1,11 @@
-layout_spectrum: 0.1904762
+layout_spectrum: 0.4072682
 favicon: null
 name: nextidea
 purpose: []
 analytics:
-  twitter: null
-  google: null
   facebook: null
+  google: null
+  twitter: null
 opengraph:
   image: null
   type: null
@@ -23,18 +23,18 @@ collections:
     permalink:
       path: '/:title/'
 cta:
+  domain: null
   version: null
   bucket: null
-  domain: null
 color:
   brandStrength: 0.4636591
-  lightness: 0.3045113
   saturation: 0.8677945
-  rhythmicContrast: 0.8145363
   brandColors:
     - '#17BEBB'
     - '#2E282A'
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
+  lightness: 0.3045113
+  rhythmicContrast: 0.8145363
 typography_spectrum: 0.5043859
